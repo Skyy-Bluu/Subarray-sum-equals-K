@@ -7,3 +7,5 @@ Given an array of integers and an integer *k*, this program will find the total 
 Input: nums = [1,1,1], k = 2
 
 Output: 2
+
+Source: [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)
